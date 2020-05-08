@@ -9,4 +9,4 @@ dbd.py is a python script that runs in the background for the game, Dead by dayl
 # Hotkeys
 * c - Struggle when carried by killer
 * h - Struggle in hook (key setting must be using space bar to struggle)
-* e - End the script (press and hold E key for 2 secs to ensure the script full stops)
+* e - End the script (press and hold E key for 2 secs to ensure the auto scripts fully stops)
