@@ -5,6 +5,8 @@ def main():
 	# add hotkeys to trigger what "script" to execute
 	keyboard.add_hotkey("c", struggleCarry)
 	keyboard.add_hotkey("h", struggleHook)
+
+	print("Script is now running...")
 	# forever blocking
 	keyboard.wait()
 
